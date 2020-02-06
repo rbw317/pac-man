@@ -1,4 +1,4 @@
-# Pacman Technical Challenge
+# Pacman 
 
 Typescript & React implementation of the popular arcade game Pacman.
 
